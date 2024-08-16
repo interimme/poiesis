@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
 </p>
 
+<h2>Screenshots</h2>
+<p align="center">
+  <img src="assets/screenshot.png" alt="Poiesis Screenshot" style="width:80%;">
+</p>
+
 <h2>Features</h2>
 <ul>
   <li><strong>User Authentication:</strong> Secure signup, login, and session management, including password recovery and password change functionality.</li>
