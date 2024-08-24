@@ -1,7 +1,7 @@
 <h1 align="center">Poiesis</h1>
 
 <p align="center">
-  <strong>Poiesis</strong> is a web application designed to help you capture and organize your thoughts, ideas, and creative work in a linear way.
+  <strong>Poiesis</strong> is a web application designed for capturing and organizing your snippets of text in a linear way.
 </p>
 
 <p align="center">
